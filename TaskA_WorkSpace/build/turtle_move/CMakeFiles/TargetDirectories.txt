@@ -1,0 +1,10 @@
+/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move/CMakeFiles/uninstall.dir
+/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move/CMakeFiles/turtle_move_uninstall.dir
+/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move/CMakeFiles/turtle_move.dir
+/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move/CMakeFiles/test.dir
+/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move/CMakeFiles/edit_cache.dir
+/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move/CMakeFiles/rebuild_cache.dir
+/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move/CMakeFiles/list_install_components.dir
+/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move/CMakeFiles/install.dir
+/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move/CMakeFiles/install/local.dir
+/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move/CMakeFiles/install/strip.dir

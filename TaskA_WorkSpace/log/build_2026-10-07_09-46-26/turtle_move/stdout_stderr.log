@@ -1,0 +1,25 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/turtle_move.dir/src/turtle_move_cpp.cpp.o[0m
+[01m[K/home/adh-a-a/Task/TaskA_WorkSpace/src/turtle_move/src/turtle_move_cpp.cpp:[m[K In function ‘[01m[Kint[01;32m[K main[m[K(int, char**)[m[K’:
+[01m[K/home/adh-a-a/Task/TaskA_WorkSpace/src/turtle_move/src/turtle_move_cpp.cpp:136:9:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Knums1[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+  136 |     int [01;35m[Knums1[m[K[5] = {255,0,0,2,1};
+      |         [01;35m[K^~~~~[m[K
+[100%] [32m[1mLinking CXX executable turtle_move[0m
+[100%] Built target turtle_move
+-- Install configuration: ""
+-- Installing: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/lib/turtle_move/turtle_move
+-- Set non-toolchain portion of runtime path of "/home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/lib/turtle_move/turtle_move" to ""
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/ament_index/resource_index/package_run_dependencies/turtle_move
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/ament_index/resource_index/parent_prefix_path/turtle_move
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/environment/ament_prefix_path.sh
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/environment/path.sh
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/environment/path.dsv
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/local_setup.bash
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/local_setup.sh
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/local_setup.zsh
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/local_setup.dsv
+-- Installing: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/package.dsv
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/ament_index/resource_index/packages/turtle_move
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/cmake/turtle_moveConfig.cmake
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/cmake/turtle_moveConfig-version.cmake
+-- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/package.xml

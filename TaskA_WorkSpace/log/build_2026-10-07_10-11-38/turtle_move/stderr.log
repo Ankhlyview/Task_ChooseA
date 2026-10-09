@@ -1,0 +1,14 @@
+[01m[K/home/adh-a-a/Task/TaskA_WorkSpace/src/turtle_move/src/turtle_move_cpp.cpp:[m[K In member function ‘[01m[Kvoid TurtleMove::[01;32m[Ksend_request[m[K(int*)[m[K’:
+[01m[K/home/adh-a-a/Task/TaskA_WorkSpace/src/turtle_move/src/turtle_move_cpp.cpp:36:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+   36 |     [01;31m[K}[m[K
+      |     [01;31m[K^[m[K
+[01m[K/home/adh-a-a/Task/TaskA_WorkSpace/src/turtle_move/src/turtle_move_cpp.cpp:[m[K In function ‘[01m[Kint[01;32m[K main[m[K(int, char**)[m[K’:
+[01m[K/home/adh-a-a/Task/TaskA_WorkSpace/src/turtle_move/src/turtle_move_cpp.cpp:122:9:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Knums1[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+  122 |     int [01;35m[Knums1[m[K[5] = {255,0,0,2,1};
+      |         [01;35m[K^~~~~[m[K
+[01m[K/home/adh-a-a/Task/TaskA_WorkSpace/src/turtle_move/src/turtle_move_cpp.cpp:123:9:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Knums2[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+  123 |     int [01;35m[Knums2[m[K[5] = {255,183,179,2,0};
+      |         [01;35m[K^~~~~[m[K
+gmake[2]: *** [CMakeFiles/turtle_move.dir/build.make:76：CMakeFiles/turtle_move.dir/src/turtle_move_cpp.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/turtle_move.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2

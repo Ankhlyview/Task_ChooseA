@@ -1,0 +1,29 @@
+[0.008s] Invoking command in '/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move -- -j32 -l32
+[0.062s] [ 50%] [32mBuilding CXX object CMakeFiles/turtle_move.dir/src/turtle_move_cpp.cpp.o[0m
+[1.403s] [01m[K/home/adh-a-a/Task/TaskA_WorkSpace/src/turtle_move/src/turtle_move_cpp.cpp:[m[K In function ‘[01m[Kint[01;32m[K main[m[K(int, char**)[m[K’:
+[1.403s] [01m[K/home/adh-a-a/Task/TaskA_WorkSpace/src/turtle_move/src/turtle_move_cpp.cpp:136:9:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Knums1[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+[1.403s]   136 |     int [01;35m[Knums1[m[K[5] = {255,0,0,2,1};
+[1.403s]       |         [01;35m[K^~~~~[m[K
+[3.013s] [100%] [32m[1mLinking CXX executable turtle_move[0m
+[3.131s] [100%] Built target turtle_move
+[3.138s] Invoked command in '/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move -- -j32 -l32
+[3.143s] Invoking command in '/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move
+[3.148s] -- Install configuration: ""
+[3.148s] -- Installing: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/lib/turtle_move/turtle_move
+[3.149s] -- Set non-toolchain portion of runtime path of "/home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/lib/turtle_move/turtle_move" to ""
+[3.149s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/ament_index/resource_index/package_run_dependencies/turtle_move
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/ament_index/resource_index/parent_prefix_path/turtle_move
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/environment/ament_prefix_path.sh
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/environment/ament_prefix_path.dsv
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/environment/path.sh
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/environment/path.dsv
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/local_setup.bash
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/local_setup.sh
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/local_setup.zsh
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/local_setup.dsv
+[3.150s] -- Installing: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/package.dsv
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/ament_index/resource_index/packages/turtle_move
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/cmake/turtle_moveConfig.cmake
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/cmake/turtle_moveConfig-version.cmake
+[3.150s] -- Up-to-date: /home/adh-a-a/Task/TaskA_WorkSpace/install/turtle_move/share/turtle_move/package.xml
+[3.151s] Invoked command in '/home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/adh-a-a/Task/TaskA_WorkSpace/build/turtle_move
